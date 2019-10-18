@@ -1,0 +1,20 @@
+Programme für Laptop (außer Office sind alle frei verfügbar)
+-------------------------------------------------------------------------
+x- Microsoft Office
+x- R
+x- RStudio
+x- GitHub
+x- Github Desktop https://desktop.github.com
+x- Slack
+x- Skype
+x- Adobe Acrobat Reader
+x- Sophos
+x- VLC Media Player
+x- Blender
+x- Gimp
+x- Opera Web Browser
+x- Zotero
+x- OpenSesame https://osdoc.cogsci.nl
+x- Python https://www.python.org/downloads/
+x- Speicherwolke / Nextcloud Client
+x- Thunderbird

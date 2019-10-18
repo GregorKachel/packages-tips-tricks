@@ -8,6 +8,8 @@
 install.packages("tidyverse")
 install.packages("dplyr")
 install.packages("installr")
+install.packages("Rtools")
+
 
 # rmarkdown
 install.packages("rmarkdown")
