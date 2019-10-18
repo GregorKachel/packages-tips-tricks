@@ -14,6 +14,9 @@ install.packages("rmarkdown")
 install.packages("stringi")
 install.packages("tint")
 
+# making tables
+install.packages("kableExtra")
+
 # plotting
 install.packages("ggplot2")
 install.packages("ggthemes")
@@ -21,12 +24,12 @@ install.packages("ggpubr")
 install.packages("Hmisc")
 install.packages("colospace")
 
-
 # analysis
 install.packages("lme4")
 install.packages("exactRankTests")
 install.packages("skimr")
 install.packages("lsr")
+install.packages("car")
 
 # langcog
 install.packages("devtools")
