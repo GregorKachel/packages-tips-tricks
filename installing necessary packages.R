@@ -16,6 +16,9 @@ install.packages("rmarkdown")
 install.packages("stringi")
 install.packages("tint")
 
+# if(!"tinytex" %in% rownames(installed.packages())) install.packages("tinytex")
+# tinytex::install_tinytex()
+
 # making tables
 install.packages("kableExtra")
 
