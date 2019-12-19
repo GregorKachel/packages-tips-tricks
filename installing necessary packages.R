@@ -40,6 +40,9 @@ install.packages("car")
 install.packages("devtools")
 devtools::install_github("langcog/langcog")
 
+# including videos
+install.packages("vembedr")
+
 
 ######################################################################
 ### getting started with papaja package (for APA style manuscripts)
