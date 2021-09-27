@@ -3,6 +3,8 @@
 ### packages
 ###########################
 
+R.Version() 
+
 
 #general
 install.packages("tidyverse")
