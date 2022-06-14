@@ -9,3 +9,8 @@ y <- table(demo.data$Geschlecht)
 z <- round((y / sum(y)),2)
 z <- as.data.frame(z)
 z
+
+
+# copy data from excel into R
+my_data <- read.table(file = "clipboard", 
+                      sep = "\t", header=TRUE) 
